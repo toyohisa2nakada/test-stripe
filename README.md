@@ -1,3 +1,6 @@
+# vercel
+https://test-stripe-omega.vercel.app/
+
 # メモ
 supabaseのnextjs quick startのページ
 https://supabase.com/docs/guides/getting-started/quickstarts/nextjs
