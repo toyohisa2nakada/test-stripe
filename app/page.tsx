@@ -32,8 +32,22 @@ export default function Home() {
         </nav>
 
         {/* nakada added */}
-        <div className="bg-blue-600 text-white hover:bg-blue-700 p-4">
-          <Link href="/instruments">instruments</Link>
+        <div>
+          <Link href="/instruments" className="bg-blue-600 text-white hover:bg-blue-700 p-4">instruments</Link>
+        </div>
+        <div>
+          <section>
+            <div className="product">
+              <img src="https://i.imgur.com/EHyR2nP.png" alt="The cover of Stubborn Attachments" width="200" />
+              <div className="description">
+                <h3>Stubborn Attachments</h3>
+                <h5>$20.00</h5>
+              </div>
+            </div>
+            <form action="/create-checkout-session" method="POST">
+              <button type="submit" id="checkout-button">Checkout</button>
+            </form>
+          </section>
         </div>
 
         <div className="flex-1 flex flex-col gap-20 max-w-5xl p-5">
