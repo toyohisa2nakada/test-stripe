@@ -9,7 +9,7 @@ stripeのnextjs quick startのページ
 https://docs.stripe.com/checkout/quickstart?utm_source=chatgpt.com&lang=node
 
 
-
+---
 # 以下はデフォルトのReadme.md
 
 <a href="https://demo-nextjs-with-supabase.vercel.app/">
