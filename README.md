@@ -2,6 +2,8 @@
 supabaseのnextjs quick startのページ
 https://supabase.com/docs/guides/getting-started/quickstarts/nextjs
 
+stripeのnextjs quick startのページ
+https://docs.stripe.com/checkout/quickstart?utm_source=chatgpt.com&lang=node
 
 
 
