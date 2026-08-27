@@ -31,7 +31,7 @@ export default function Home() {
           </div>
         </nav>
 
-        {/* nakada added */}
+        {/* nakada added start */}
         <div>
           <Link href="/instruments" className="bg-blue-600 text-white hover:bg-blue-700 p-4">instruments</Link>
         </div>
@@ -49,6 +49,7 @@ export default function Home() {
             </form>
           </section>
         </div>
+        {/* nakada added end */}
 
         <div className="flex-1 flex flex-col gap-20 max-w-5xl p-5">
           <Hero />
